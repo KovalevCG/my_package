@@ -1,3 +1,0 @@
-git test file
-
----- Edited on github.com -----
